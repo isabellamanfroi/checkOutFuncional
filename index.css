@@ -1,11 +1,11 @@
 body{
-    background-color: rgb(84, 147, 215);
-    text-align: center;
+    background-color:  rgb(126, 234, 250); 
 }
 #card{
     width: 70%;
-    background-color: rgb(98, 135, 199);
+    background-color:    rgb(212, 235, 235);
     margin: 0 auto;
+    border-radius: 19px;
 }
 #inputs{
     display: flex;
@@ -39,22 +39,22 @@ label{
    
 } */
 #b1{
-    background-color: blueviolet;
+    background-color:  rgb(182, 255, 254);
     padding: 15px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
-#b2{
-    background-color: rgb(47, 8, 189);
+#b2{ 
+    background-color: rgb(182, 255, 254);
     padding: 15px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 #b3{
-    background-color: rgb(70, 232, 11);
+    background-color: rgb(182, 255, 254);
     padding: 15px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
 #b4{
-    background-color: rgb(243, 11, 189);
+    background-color:  rgb(182, 255, 254);
     padding: 15px;
-    color: aliceblue;
+    color: rgb(0, 0, 0);
 }
